@@ -1,0 +1,18 @@
+# Dataset
+project/data/
+
+# Output training
+project/output/
+output/
+
+# Model files
+*.keras
+*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
